@@ -1,4 +1,5 @@
-<img align="right" height="170" src="https://cdn.discordapp.com/attachments/1309478811217166366/1318413778995646534/AgFKXxo.png?ex=67623c03&is=6760ea83&hm=2b16ef99893b438a05b298680e9e73a77a3b146ca214788f9c636352eb1b2b0f&"  />
+
+<img align="right" height="170" src="https://imgur.com/a/BD70MzE"  />
 
 ###
 
@@ -20,7 +21,7 @@
 
 ###
 
-<img align="left" height="100" src="https://cdn.discordapp.com/attachments/1309478811217166366/1318413778412376097/5orHoUt.png?ex=67623c03&is=6760ea83&hm=38921b72babb02affafdefbbb3752335a1692cf7cb8da61a4429ce527de2fe29&"  />
+<img align="left" height="100" src="https://imgur.com/yX564Sd"  />
 
 ###
 
